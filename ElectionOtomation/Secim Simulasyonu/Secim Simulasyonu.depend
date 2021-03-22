@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1545584093 source:c:\users\Ömer furkan bilge\desktop\secim simulasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1545480400 source:f:\secim simulasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1545584523 source:c:\users\Ömer furkan bilge\desktop\projeler\2.proje\secim simulasyonu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
